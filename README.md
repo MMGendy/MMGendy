@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Marttina, I'm a programming student currently learning how to code in Java and python. I have experience with C++ through school as well :)
+
 <!--
 **MMGendy/MMGendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
